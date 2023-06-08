@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+}
+
+.container {
+    width: 100%;
+    height: 500px;
+    margin-top: 25px;
+    display: flex;
+    flex-direction: row;
+    gap: 185px;
+}
+
+.pop-title {
+    text-align: center;
+    margin-top: 25px;
+}
+
+
+.bookup {
+    background-color: #FF5722;
+    border-radius: 5px;
+    color: black;
+}
+
+.title {
+    margin-top: 15px;
+}
+
+.book {
+    margin-left: -35px;
+}
+
+
+img {
+    width: 350px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.desc {
+    font-size: 15px;
+    width: 350px;
+    text-align: justify;
+}
+
